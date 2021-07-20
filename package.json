@@ -13,7 +13,7 @@
     "@react-native-community/async-storage": "^1.11.0",
     "@react-native-community/datetimepicker": "^2.4.0",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-modal-datetime-picker": "^8.7.0",
     "shortid": "^2.2.15"
   },
